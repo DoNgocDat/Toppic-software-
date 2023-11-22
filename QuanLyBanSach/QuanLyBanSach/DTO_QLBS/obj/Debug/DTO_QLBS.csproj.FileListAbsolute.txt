@@ -1,0 +1,6 @@
+D:\C#\QuanLyBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll
+D:\C#\QuanLyBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.pdb
+D:\C#\QuanLyBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.AssemblyReference.cache
+D:\C#\QuanLyBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.dll
+D:\C#\QuanLyBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.pdb
